@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](___)
-[2. Какой кейс решаем?](___)
-[3. Краткая информация о данных](___)
-[4. Этапы работы над проектом](___)
-[5. Результат](___)
-[6. Выводы](___)
+[1. Описание проекта](https://github.com/IvanMonakov/SkillFackt/blob/main/Project_0/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/IvanMonakov/SkillFackt/blob/main/Project_0/README.md#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/IvanMonakov/SkillFackt/blob/main/Project_0/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/IvanMonakov/SkillFackt/blob/main/Project_0/README.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/IvanMonakov/SkillFackt/blob/main/Project_0/README.md#Результат)
+[6. Выводы](https://github.com/IvanMonakov/SkillFackt/blob/main/Project_0/README.md#Выводы)
 
 ### Описание проекта
 Угадываем загаданное помпьютером число за минимальное число попыток
 
-:arrow_up:[к оглавлению](___)
+:arrow_up:[к оглавлению](https://github.com/IvanMonakov/SkillFackt/blob/main/Project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем
@@ -31,4 +31,4 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](___)
+:arrow_up:[к оглавлению](https://github.com/IvanMonakov/SkillFackt/blob/main/Project_0/README.md#Оглавление)
